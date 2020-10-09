@@ -1,5 +1,5 @@
 #CSS GRID
-
+---
 
 #GRID LAYOUT 
 
@@ -18,6 +18,7 @@ FLEXBOX
  - container e item(s)
 
  CONTAINER
+ ---
 
  - display : grid;
  - grid-template-columns;
@@ -29,7 +30,9 @@ FLEXBOX
 
 Elementos de alinhamento, justify (x) align (y)
 
+
 ITEM(s)
+---
 
 - grid-column
     - grid-column-start
